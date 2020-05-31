@@ -1,2 +1,3 @@
-.vscode
-createExFiles.sh
+node_modules
+tp5/plataforma/log
+tp5/plataforma/node_modules
