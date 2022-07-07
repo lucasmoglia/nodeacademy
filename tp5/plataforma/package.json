@@ -25,7 +25,7 @@
   "homepage": "https://github.com/lucasmoglia/nodeacademy#readme",
   "dependencies": {
     "bluebird": "^3.7.2",
-    "moment": "^2.26.0",
+    "moment": "^2.29.4",
     "winston": "^3.2.1"
   },
   "devDependencies": {
